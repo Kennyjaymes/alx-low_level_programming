@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main -Program entry point
+ * main - Program entry point
  *
  * REturn: 0 success. Error code otherwise
  */
-int main (void)
+int main(void)
 {
 	char a = 'a';
 	int n = 0;
