@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -Programentrypoint 
+ * main-Programentrypoint 
  *
  * Return: 0 on success. Error code otherwise
  */
