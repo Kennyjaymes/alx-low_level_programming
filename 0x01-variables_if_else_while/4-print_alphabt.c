@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+ * main - the function does xyz
+ *
+ */
 int main(void)
 {
 	char ch = 'a';
