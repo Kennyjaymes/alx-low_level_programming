@@ -2,9 +2,9 @@
 
 int main(void)
 /**
- * main - check the code
+ * main - Program entry point
  *
- * Return: Always 0.
+ * Return: 0 on success. Error code otherwise
  */
 {
 char ch = 'z';
