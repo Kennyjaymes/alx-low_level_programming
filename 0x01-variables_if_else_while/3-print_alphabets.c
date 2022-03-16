@@ -7,8 +7,8 @@
 int main(void)
 {
 	char a = 'a';
-	char A = 'A'
-		int n = 0;
+	char A = 'A';
+	int n = 0;
 
 	while (n < 52)
 	{
