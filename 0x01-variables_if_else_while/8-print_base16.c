@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 int main(void)
 {
@@ -12,8 +12,8 @@ if (i < 10)
 else													
 {	
 putchar(ch);											
-ch++													}
+ch++;													}
 i++;													}
 putchar('\n');
-return 0;
+return (0);
 }
