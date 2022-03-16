@@ -7,7 +7,7 @@ int main(void)
  * Return: 0 on success. Error code otherwise
  */
 {
-char ch = 'z';
+char ch = 'z' ;
 while (ch >= 'a')
 {
 putchar(ch);
