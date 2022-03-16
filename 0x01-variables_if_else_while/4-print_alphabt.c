@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - the function does xyz
  *
  */
