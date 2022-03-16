@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - the function does xyz
+ * main - check the code
  *
+ *Return: Always 0.
  */
 int main(void)
 {
