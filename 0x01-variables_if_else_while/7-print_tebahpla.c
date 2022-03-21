@@ -17,6 +17,5 @@ for (c = 'a'; c < 'g'; c++)
 {
 	putchar(c);
 }
-putchar('\n');
 return (0);
 }
