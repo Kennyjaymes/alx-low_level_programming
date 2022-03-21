@@ -1,11 +1,10 @@
 #include <stdio.h>
-
-int main(void)
 /**
  * main - main block
  * Description: Print the lowercaes alphabet in reverse
  * Return: 0
  */
+int main(void)
 {
 char ch;
 int i;
