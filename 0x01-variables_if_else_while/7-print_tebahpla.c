@@ -2,16 +2,20 @@
 
 int main(void)
 /**
- * main - Program entry point
- *
- * Return: 0 on success. Error code otherwise
+ * main - main block
+ * Description: Print the lowercaes alphabet in reverse
+ * Return: 0
  */
 {
-char ch = 'z';
-while (ch >= 'a')
+char ch;
+int i;
+for (i = 0; i < 10; i++)
 {
-putchar(ch);
-ch--;
+putchar(i + '0');
+}
+for (c = 'a'; c < 'g'; c++)
+{
+	putchar(c);
 }
 putchar('\n');
 return (0);
