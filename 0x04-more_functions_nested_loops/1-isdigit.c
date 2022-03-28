@@ -1,9 +1,10 @@
 #include "main.h"
+#include <stdio>
 
 /**
- * main - checks if parameter is a number between 0 to 9.
- * Description: input number
- * Return: 1 if c is a digit, otherwise 0
+ * _isdigit - checks for a digit.
+ * @c: variable
+ * Return: Always 0.
  */
 int _isdigit(int c)
 {
