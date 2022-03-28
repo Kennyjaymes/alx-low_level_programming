@@ -1,11 +1,11 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * main - check the code
- * Description: function that multiplies two integers 
- * @a: int type number
- * @b: int type number
- * Return: 0.
+ * mul - multiplies two integers 
+ * @a: print int 
+ * @b: print int
+ * Return: Always 0.
  */
 int mul(int a, int b)
 {
