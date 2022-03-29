@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isupper - evaluate if letter is uppercase
+ * _isupper - evaluate if letter is upperca:wqse
  * @c: print int
  * Return: Always 0.
  */
