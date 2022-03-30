@@ -13,7 +13,7 @@ for (i = 0; i < 49; i++)
 if ((y % 2 == 0) && (y <= 4000000))
 
 {
-	tSum = tSum + y
+	tSum = tSum + y;
 }
 sum = x + y;												x = y;
 y = sum;
