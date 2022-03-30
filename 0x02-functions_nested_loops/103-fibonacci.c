@@ -16,7 +16,10 @@ if ((y % 2 == 0) && (y <= 4000000))
 	tSum = tSum + y;
 }
 
-sum = x + y;												x = y;
+sum = x + y;
+
+x = y;
+
 y = sum;
 
 															}
